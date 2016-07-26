@@ -1,0 +1,66 @@
+#mensaje{
+	
+background-color: #16A05D;
+	
+font-style: courier;
+	
+border: 1px solid black;
+	
+margin: 5px;
+	
+display: none;
+	
+color: white;
+	
+padding: 5px;
+	
+border-radius: 5px;
+
+}
+h1{
+font-family: curier;
+font-size: 20px;
+color:#02013B;
+text-align: center;
+}
+#nuevo{
+	color:#1CEC14;
+	background-color:#03104D;
+}
+#h2{
+	color:#06EDF9;
+	text-align: center;
+	font-family: cursive;
+}
+#dii{
+background-color:#3C9BF4;
+border-radius: 5px 5px 5px 5px;
+box-shadow: 4px 4px 100px 5px ;
+
+}
+caption{
+
+	color:black;
+	font-size: 16px;
+	font-family: curier;
+	text-align: center;
+}
+#fac{
+
+	
+border: 1px solid black;
+margin: 100px;
+padding: 5px;
+border-radius: 5px 5px 5px 5px;
+
+}
+h3{
+	text-align: center;
+	font-family: curier;
+	color:black;
+}
+#table1{
+	border: 1px solid black;
+	margin: 100px;
+	float: right;
+}
